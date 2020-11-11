@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Create new obj to add values in list
+        //Create new obj to add values in list.
         IntOnlyArrayList myList = new IntOnlyArrayList();
         myList.add(1);
         myList.add(4);
